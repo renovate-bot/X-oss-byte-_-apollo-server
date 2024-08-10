@@ -95,7 +95,7 @@
     "@types/request-promise": "4.1.44",
     "@types/test-listen": "1.1.0",
     "@types/type-is": "1.6.2",
-    "@types/ws": "6.0.1",
+    "@types/ws": "6.0.4",
     "@types/yup": "0.26.18",
     "apollo-fetch": "0.7.0",
     "apollo-link": "1.2.12",
@@ -141,7 +141,7 @@
     "ts-jest": "24.0.2",
     "tslint": "5.18.0",
     "typescript": "3.4.5",
-    "ws": "6.2.2",
+    "ws": "6.2.3",
     "yup": "0.27.0"
   },
   "jest": {
