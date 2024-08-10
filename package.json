@@ -69,7 +69,7 @@
     "graphql-extensions": "file:packages/graphql-extensions"
   },
   "devDependencies": {
-    "@azure/functions": "1.0.3",
+    "@azure/functions": "4.5.0",
     "@types/async-retry": "1.4.1",
     "@types/aws-lambda": "8.10.27",
     "@types/body-parser": "1.17.0",
