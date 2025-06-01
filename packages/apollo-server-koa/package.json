@@ -41,7 +41,7 @@
     "koa": "2.7.0",
     "koa-bodyparser": "^3.0.0",
     "koa-router": "^7.4.0",
-    "type-is": "^1.6.16"
+    "type-is": "^2.0.0"
   },
   "devDependencies": {
     "apollo-server-integration-testsuite": "file:../apollo-server-integration-testsuite"
