@@ -23,7 +23,7 @@
     "node": ">=6"
   },
   "dependencies": {
-    "node-fetch": "^2.1.2",
+    "node-fetch": "^3.0.0",
     "util.promisify": "^1.0.0"
   }
 }
