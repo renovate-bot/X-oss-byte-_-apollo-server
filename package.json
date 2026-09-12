@@ -72,7 +72,7 @@
     "@azure/functions": "1.0.3",
     "@types/async-retry": "1.4.1",
     "@types/aws-lambda": "8.10.27",
-    "@types/body-parser": "1.17.0",
+    "@types/body-parser": "1.19.6",
     "@types/connect": "3.4.32",
     "@types/fast-json-stable-stringify": "2.0.0",
     "@types/graphql": "14.2.2",
