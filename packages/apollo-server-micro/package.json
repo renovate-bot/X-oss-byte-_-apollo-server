@@ -27,7 +27,7 @@
     "accept": "^3.0.2",
     "apollo-server-core": "file:../apollo-server-core",
     "apollo-server-types": "file:../apollo-server-types",
-    "micro": "^9.3.2"
+    "micro": "^10.0.0"
   },
   "devDependencies": {
     "apollo-server-integration-testsuite": "file:../apollo-server-integration-testsuite"
